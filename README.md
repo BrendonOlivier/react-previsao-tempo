@@ -26,7 +26,7 @@ junto com as informações de temperatura, com a API Unsplash consigo buscar tam
 
 <div style="display: flex" align="center">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg' height="40" width="60">
-    <p>PROJETO: https://dev-moviess.netlify.app/</p>
+    <p>PROJETO: https://dev-previsoes.netlify.app/</p>
 </div>
 
 
